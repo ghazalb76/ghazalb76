@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Ghazale Bakhtiari and I'm a software developer engineer interested in DevOps and Cloud Computing.
+#### My name is Ghazale Bakhtiari and I'm a Software Engineer interested in DevOps and Cloud Computing.
 
 ### Github Stats
 
