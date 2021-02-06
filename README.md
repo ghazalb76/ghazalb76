@@ -6,8 +6,8 @@
 
 ### Pinned Projects
 
-<img align="center" width="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=Pacman" /><img width="137px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=Long-Polling" /><br />
-<img align="center" width="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=StreamProcessing" /><img width="137px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=Taxi-Agency" /><br />
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=Pacman" /><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=Long-Polling" /><br />
+<img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=StreamProcessing" /><img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ghazalb76&theme=tokyonight&repo=Taxi-Agency" /><br />
 
 ### Top Languages
 
