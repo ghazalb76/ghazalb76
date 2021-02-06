@@ -1,4 +1,5 @@
-
+## Hi there 👋
+#### My name is Ghazale Bakhtiari and I'm a software developer engineer interested in DevOps and Cloud Computing.
 
 ### Github Stats
 
@@ -17,4 +18,3 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React](https://img.shields.io/badge/-Django-000?&logo=Django)
-
