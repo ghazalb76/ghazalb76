@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Ghazale Bakhtiari and I'm a Software Engineer interested in DevOps and Cloud Computing.
+#### My name is Ghazale Bakhtiari and I'm a Software Engineer interested in Distributed Systems, Cloud Computing, and Data Mining.
 
 ### Github Stats
 
