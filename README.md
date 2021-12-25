@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Ghazale Bakhtiari and I'm a Software Engineer interested in Distributed Systems, Networks, Cloud Computing, and Data Mining.
+#### My name is Ghazaleh Bakhtiariazad and I'm a Software Engineer interested in Distributed Systems, Networks, Cloud Computing, and Data Mining.
 
 ### Github Stats
 
