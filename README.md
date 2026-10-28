@@ -1,20 +1,29 @@
-## Hi there 👋
-#### My name is Ghazaleh Bakhtiariazad and I'm a Software Engineer interested in Software Engineering, Distributed Systems, Cloud Computing, Networks, and Data Mining.
+## Hi, I'm Ghazaleh 👋
 
-### Github Stats
+Backend and cloud engineer building secure, scalable systems with **Python/Django**, **Java/Spring Boot** and **AWS**. M.Sc. in Computing Science from Simon Fraser University, with research published at **ACM MMSys 2026**.
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ghazalb76&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalb76&hide=html&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=tokyonight" /></a>
+- 🏥 Currently building a healthcare platform at Cue North: Django, PostgreSQL, AWS (ECS, RDS, VPC, S3), Terraform, and PIPA-compliant security
+- 🏦 Previously built backend services and microservices for a digital banking platform with Java, Spring Boot and gRPC
+- 🥽 Research: cut cloud VR streaming bandwidth by 56% with PyTorch-based colorization and super-resolution
+- 📍 Vancouver, BC · Open to backend, cloud and platform engineering roles
 
-### Top Languages
+### Tech Stack
 
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java&logocolor=white)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+**Languages:** Python · Java · JavaScript · SQL
+**Backend:** Django · Spring Boot · REST APIs · gRPC · Microservices
+**Cloud & DevOps:** AWS · Terraform · Docker · Kubernetes · CI/CD · Jenkins
+**Data:** PostgreSQL · MySQL · MongoDB · Redis
+**ML:** PyTorch · OpenCV
 
-### Top Frameworks
+### Featured Projects
 
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![React](https://img.shields.io/badge/-Django-000?&logo=Django)
+| Project | Description | Stack |
+|---|---|---|
+| [iSR](https://github.com/ghazalb76/iSR) | Cuts cloud VR streaming bandwidth by up to 56% with stereo-aware colorization and super-resolution (ACM MMSys 2026) | Python, PyTorch |
+| [Evar](https://github.com/ghazalb76/Evar) | Classified ads marketplace backend with dynamic search and real-time chat | Spring Boot, PostgreSQL, MongoDB, WebSocket |
+| [StreamProcessing](https://github.com/ghazalb76/StreamProcessing) | Real-time analysis of 2.4M stock exchange orders with a parallel Storm topology | Java, Apache Storm |
+| [WebRTC-P2P](https://github.com/ghazalb76/WebRTC-P2P) | Browser-to-browser file transfer over WebRTC data channels | JavaScript, WebRTC, Node.js |
+
+### Connect
+
+[Portfolio](https://ghazalb76.github.io) · [LinkedIn](https://www.linkedin.com/in/ghazaleh-bakhtiariazad) · [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MtQ2No0AAAAJ)
