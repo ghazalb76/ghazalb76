@@ -1,45 +1,20 @@
-# Ghazaleh Bakhtiariazad
+## Hi there 👋
+#### My name is Ghazaleh Bakhtiariazad and I'm a Software Engineer interested in Backend Development, Distributed Systems, Cloud Computing, and Networks.
 
-**Backend & Cloud Engineer** · Vancouver, BC
+### Github Stats
 
-I design and build secure, scalable backend systems with Python/Django, Java/Spring Boot and AWS. I hold an M.Sc. in Computing Science from Simon Fraser University, where my research on bandwidth optimization for cloud VR streaming was published at ACM MMSys 2026.
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ghazalb76&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalb76&hide=html&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
 
-## Experience
+### Top Languages
 
-**Software Developer, Cue North** (2026 – Present)
-Building a healthcare platform with Django and PostgreSQL on AWS (ECS, RDS, VPC, S3), with infrastructure as code in Terraform, CI/CD pipelines, and PIPA-compliant security including field-level encryption and audit logging.
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/ghazalb76?tab=repositories&language=python)
+[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/ghazalb76?tab=repositories&language=java)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/ghazalb76?tab=repositories&language=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/ghazalb76?tab=repositories&language=javascript)
 
-**Software Engineer, Tourism Bank** (2020 – 2022)
-Developed backend services and microservices for a digital banking platform using Java, Spring Boot and gRPC.
+### Top Frameworks
 
-**Research Assistant, Simon Fraser University** (2022 – 2025)
-Built a PyTorch-based system that reduces cloud VR streaming bandwidth by up to 56% while preserving visual quality.
-
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| Languages | Python, Java, JavaScript, SQL |
-| Backend | Django, Spring Boot, REST APIs, gRPC, Microservices |
-| Cloud & DevOps | AWS, Terraform, Docker, Kubernetes, CI/CD, Jenkins |
-| Databases | PostgreSQL, MySQL, MongoDB, Redis |
-| Machine Learning | PyTorch, OpenCV |
-
-## Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [iSR](https://github.com/ghazalb76/iSR) | Bandwidth-efficient cloud VR streaming using stereo-aware colorization and super-resolution. Published at ACM MMSys 2026. | Python, PyTorch |
-| [Evar](https://github.com/ghazalb76/Evar) | Backend for a classified ads marketplace with dynamic search and real-time chat | Spring Boot, PostgreSQL, MongoDB, WebSocket |
-| [StreamProcessing](https://github.com/ghazalb76/StreamProcessing) | Real-time analysis of 2.4M stock exchange orders using a parallel stream processing topology | Java, Apache Storm |
-| [WebRTC-P2P](https://github.com/ghazalb76/WebRTC-P2P) | Peer-to-peer file transfer in the browser over WebRTC data channels | JavaScript, WebRTC, Node.js |
-
-## Publication
-
-**iSR: Super-resolution for Immersive Cloud VR Gaming Platforms**
-G. Bakhtiariazad, H. U. Rehman, S. Shirmohammadi, I. Amer, M. Hefeeda
-*ACM Multimedia Systems Conference (MMSys), 2026* · [Paper](https://doi.org/10.1145/3793853.3795746)
-
-## Contact
-
-[Portfolio](https://ghazalb76.github.io) · [LinkedIn](https://www.linkedin.com/in/ghazaleh-bakhtiariazad) · [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MtQ2No0AAAAJ)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
